@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Tubarão",
+    "age": 35,
+    "sexe": "Masculin",
+    "naissance": "Portugal",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "anti-intrusion",
+      "anti-gadget"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 0
+  },
+  {
+    "name": "Ram",
+    "age": 37,
+    "sexe": "Féminin",
+    "naissance": "Corée du Sud",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 2
+  }
+]
