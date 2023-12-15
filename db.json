@@ -1,24 +1,20 @@
 [
   {
     "name": "Tubarão",
-    "age": 35,
-    "sexe": "Masculin",
-    "naissance": "Portugal",
     "team": "Wolfguard",
     "role": "Défenseur",
     "specialite": [
-      "anti-intrusion",
-      "anti-gadget"
+      "Anti-intrusion",
+      "Anti-gadget"
     ],
     "sante": 2,
     "vitesse": 2,
-    "difficulte": 0
+    "difficulte": 0,
+    "age": 35,
+    "naissance": "Portugal"
   },
   {
     "name": "Ram",
-    "age": 37,
-    "sexe": "Féminin",
-    "naissance": "Corée du Sud",
     "team": "Redhammer",
     "role": "Assaillant",
     "specialite": [
@@ -26,6 +22,940 @@
     ],
     "sante": 3,
     "vitesse": 1,
-    "difficulte": 2
+    "difficulte": 2,
+    "age": 37,
+    "naissance": "Corée du Sud"
+  },
+  {
+    "name": "Fenrir",
+    "team": "Redhammer",
+    "role": "Défenseur",
+    "specialite": [
+      "Piégeur",
+      "Contrôle des foules"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 34,
+    "naissance": "Suède"
+  },
+  {
+    "name": "Brava",
+    "team": "Viperstrike",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Anti-gadget"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 3,
+    "age": 40,
+    "naissance": "Brésil"
+  },
+  {
+    "name": "Solis",
+    "team": "Ghosteyes",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 37,
+    "naissance": "Colombie"
+  },
+  {
+    "name": "Grim",
+    "team": "Nighthaven",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Contrôle de la carte"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 1,
+    "age": 39,
+    "naissance": "Singapour"
+  },
+  {
+    "name": "Sens",
+    "team": "Wolfguard",
+    "role": "Assaillant",
+    "specialite": [
+      "Assistance",
+      "Contrôle de la carte"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 2,
+    "age": 30,
+    "naissance": "Belgique"
+  },
+  {
+    "name": "Azami",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 28,
+    "naissance": "Japon"
+  },
+  {
+    "name": "Thorn",
+    "team": "Redhammer",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 28,
+    "naissance": "Irlande"
+  },
+  {
+    "name": "Osa",
+    "team": "Nighthaven",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 2,
+    "age": 27,
+    "naissance": "Croatie"
+  },
+  {
+    "name": "Thunderbird",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 36,
+    "naissance": "Territoires nakoda"
+  },
+  {
+    "name": "Flores",
+    "team": "Ghosteyes",
+    "role": "Assaillant",
+    "specialite": [
+      "Anti-gadget",
+      "Intel"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 38,
+    "naissance": "Argentine"
+  },
+  {
+    "name": "Aruni",
+    "team": "Nighthaven",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Anti-gadget"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 2,
+    "age": 42,
+    "naissance": "Thaïlande"
+  },
+  {
+    "name": "Zero",
+    "team": "Ghosteyes",
+    "role": "Assaillant",
+    "specialite": [
+      "Anti-gadget",
+      "Intel"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 0,
+    "age": 63,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Ace",
+    "team": "Nighthaven",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Anti-gadget"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 33,
+    "naissance": "Norvège"
+  },
+  {
+    "name": "Melusi",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Contrôle des foules"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 32,
+    "naissance": "Afrique du Sud"
+  },
+  {
+    "name": "Oryx",
+    "team": "Redhammer",
+    "role": "Défenseur",
+    "specialite": [
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 45,
+    "naissance": "Jordanie"
+  },
+  {
+    "name": "Iana",
+    "team": "Ghosteyes",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Intel"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 35,
+    "naissance": "Pays-Bas"
+  },
+  {
+    "name": "Wamai",
+    "team": "Nighthaven",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-gadget",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 28,
+    "naissance": "Kenya"
+  },
+  {
+    "name": "Kali",
+    "team": "Nighthaven",
+    "role": "Assaillant",
+    "specialite": [
+      "Anti-gadget",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 34,
+    "naissance": "Inde"
+  },
+  {
+    "name": "Amaru",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Contrôle de la carte"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 48,
+    "naissance": "Pérou"
+  },
+  {
+    "name": "Goyo",
+    "team": "Redhammer",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 31,
+    "naissance": "Mexique"
+  },
+  {
+    "name": "Nøkk",
+    "team": "Ghosteyes",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Contrôle de la carte"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 0,
+    "naissance": "Non spécifié"
+  },
+  {
+    "name": "Warden",
+    "team": "Ghosteyes",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-gadget",
+      "Intel"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 2,
+    "age": 48,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Gridlock",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Assistance",
+      "Contrôle de la carte"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 36,
+    "naissance": "Australie"
+  },
+  {
+    "name": "Nomad",
+    "team": "Wolfguard",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Contrôle de la carte"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 39,
+    "naissance": "Maroc"
+  },
+  {
+    "name": "Kaid",
+    "team": "Redhammer",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Anti-gadget"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 2,
+    "age": 58,
+    "naissance": "Maroc"
+  },
+  {
+    "name": "Clash",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Contrôle des foules"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 3,
+    "age": 35,
+    "naissance": "Angleterre"
+  },
+  {
+    "name": "Maverick",
+    "team": "Ghosteyes",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Première ligne"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 2,
+    "age": 36,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Maestro",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-gadget",
+      "Intel"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 2,
+    "age": 45,
+    "naissance": "Italie"
+  },
+  {
+    "name": "Alibi",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Piégeur"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 3,
+    "age": 37,
+    "naissance": "Libye"
+  },
+  {
+    "name": "Lion",
+    "team": "Wolfguard",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Contrôle de la carte"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 31,
+    "naissance": "France"
+  },
+  {
+    "name": "Finka",
+    "team": "Nighthaven",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 27,
+    "naissance": "Biélorussie"
+  },
+  {
+    "name": "Vigil",
+    "team": "Ghosteyes",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-gadget",
+      "Contrôle des foules"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 3,
+    "age": 34,
+    "naissance": "Non spécifié"
+  },
+  {
+    "name": "Dokkaebi",
+    "team": "Viperstrike",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Contrôle de la carte"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 2,
+    "age": 29,
+    "naissance": "Corée du Sud"
+  },
+  {
+    "name": "Zofia",
+    "team": "Ghosteyes",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Anti-gadget"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 36,
+    "naissance": "Pologne"
+  },
+  {
+    "name": "Ela",
+    "team": "Nighthaven",
+    "role": "Défenseur",
+    "specialite": [
+      "Contrôle des foules",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 31,
+    "naissance": "Pologne"
+  },
+  {
+    "name": "Ying",
+    "team": "Wolfguard",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Contrôle de la carte"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 33,
+    "naissance": "Chine"
+  },
+  {
+    "name": "Lesion",
+    "team": "Ghosteyes",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 44,
+    "naissance": "Chine"
+  },
+  {
+    "name": "Mira",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 3,
+    "age": 39,
+    "naissance": "Espagne"
+  },
+  {
+    "name": "Jackal",
+    "team": "Viperstrike",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Contrôle de la carte"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 49,
+    "naissance": "Espagne"
+  },
+  {
+    "name": "Hibana",
+    "team": "Viperstrike",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Première ligne"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 1,
+    "age": 34,
+    "naissance": "Japon"
+  },
+  {
+    "name": "Echo",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Contrôle des foules"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 36,
+    "naissance": "Japon"
+  },
+  {
+    "name": "Caveira",
+    "team": "Ghosteyes",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Contrôle des foules"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 3,
+    "age": 27,
+    "naissance": "Brésil"
+  },
+  {
+    "name": "Capitão",
+    "team": "Viperstrike",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Contrôle de la carte"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 2,
+    "age": 49,
+    "naissance": "Brésil"
+  },
+  {
+    "name": "Blackbeard",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 32,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Valkyrie",
+    "team": "Ghosteyes",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 31,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Buck",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 36,
+    "naissance": "Canada"
+  },
+  {
+    "name": "Frost",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 32,
+    "naissance": "Canada"
+  },
+  {
+    "name": "Mute",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-gadget",
+      "Contrôle des foules"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 25,
+    "naissance": "Royaume-Uni"
+  },
+  {
+    "name": "Sledge",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Anti-gadget"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 35,
+    "naissance": "Royaume-Uni"
+  },
+  {
+    "name": "Smoke",
+    "team": "Nighthaven",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 36,
+    "naissance": "Royaume-Uni"
+  },
+  {
+    "name": "Thatcher",
+    "team": "Viperstrike",
+    "role": "Assaillant",
+    "specialite": [
+      "Anti-gadget",
+      "Assistance"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 56,
+    "naissance": "Royaume-Uni"
+  },
+  {
+    "name": "Ash",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Première ligne"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 2,
+    "age": 33,
+    "naissance": "Israël"
+  },
+  {
+    "name": "Castle",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 36,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Pulse",
+    "team": "Nighthaven",
+    "role": "Défenseur",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 3,
+    "age": 32,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Thermite",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Brèche",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 35,
+    "naissance": "États-Unis"
+  },
+  {
+    "name": "Montagne",
+    "team": "Wolfguard",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 3,
+    "age": 48,
+    "naissance": "France"
+  },
+  {
+    "name": "Twitch",
+    "team": "Wolfguard",
+    "role": "Assaillant",
+    "specialite": [
+      "Anti-gadget",
+      "Intel"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 28,
+    "naissance": "France"
+  },
+  {
+    "name": "Doc",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "Assistance"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 44,
+    "naissance": "France"
+  },
+  {
+    "name": "Rook",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Assistance"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 27,
+    "naissance": "France"
+  },
+  {
+    "name": "Jäger",
+    "team": "Viperstrike",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-gadget",
+      "Assistance"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 2,
+    "age": 39,
+    "naissance": "Allemagne"
+  },
+  {
+    "name": "Bandit",
+    "team": "Wolfguard",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Anti-gadget"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 1,
+    "age": 42,
+    "naissance": "Allemagne"
+  },
+  {
+    "name": "Blitz",
+    "team": "Viperstrike",
+    "role": "Assaillant",
+    "specialite": [
+      "Première ligne",
+      "Contrôle de la carte"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 3,
+    "age": 37,
+    "naissance": "Allemagne"
+  },
+  {
+    "name": "Iq",
+    "team": "Nighthaven",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 3,
+    "age": 41,
+    "naissance": "Allemagne"
+  },
+  {
+    "name": "Fuze",
+    "team": "Redhammer",
+    "role": "Assaillant",
+    "specialite": [
+      "Anti-gadget"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 35,
+    "naissance": "Ouzbékistan"
+  },
+  {
+    "name": "Glaz",
+    "team": "Ghosteyes",
+    "role": "Assaillant",
+    "specialite": [
+      "Intel",
+      "Assistance"
+    ],
+    "sante": 1,
+    "vitesse": 3,
+    "difficulte": 2,
+    "age": 30,
+    "naissance": "Russie"
+  },
+  {
+    "name": "Tachanka",
+    "team": "Redhammer",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Contrôle des foules"
+    ],
+    "sante": 3,
+    "vitesse": 1,
+    "difficulte": 1,
+    "age": 46,
+    "naissance": "Russie"
+  },
+  {
+    "name": "Kapkan",
+    "team": "Redhammer",
+    "role": "Défenseur",
+    "specialite": [
+      "Anti-intrusion",
+      "Piégeur"
+    ],
+    "sante": 2,
+    "vitesse": 2,
+    "difficulte": 1,
+    "age": 38,
+    "naissance": "Russie"
   }
 ]
